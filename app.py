@@ -5,7 +5,7 @@ import os
 
 
 
-st.set_page_config('Sai Dress Recommendation System')
+st.set_page_config('Dress Recommendation System')
 dress_dict=pd.read_csv("python1.csv")
 simalri=pd.read_csv("final.csv")
 
